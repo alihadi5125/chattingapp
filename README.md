@@ -1,6 +1,7 @@
 # chattingapp
 
 A new Flutter application.
+Cope the real-time-nodejs folder into favorite nodejs IDE
 
 ## Getting Started
 
